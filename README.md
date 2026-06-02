@@ -10,6 +10,10 @@ A cinematic scroll-driven video sequence demo. As the user scrolls, a 241-frame 
 
 The hero section pins to the viewport while the user scrolls. Each pixel of scroll advances the frame sequence forward, synchronized via GSAP ScrollTrigger's `scrub`. Below the pinned hero, standard content sections animate in with scroll-triggered entrance effects.
 
+> If this tool saves you time, consider supporting its development — every contribution funds more experiments and free tools for the community. ☕
+>
+> <a href="https://www.buymeacoffee.com/crazyramirez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
+
 ## Tech Stack
 
 | Library | Version | Role |
